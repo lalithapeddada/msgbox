@@ -1,0 +1,19 @@
+body{
+    background-image: url('img1.jpg');
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}
+h2{
+    color: black;
+}
+input[type=text]:hover{
+    background-color: skyblue;
+    
+}
+button:hover{
+
+    background-color: pink;
+}
